@@ -103,7 +103,19 @@ plotly
 Get your free Groq API key from: [https://console.groq.com](https://console.groq.com)
 
 ## Screenshots
-![AI Investment Dashboard](images/dashboard.png)
+
+<img width="2858" height="1486" alt="Screenshot 2026-02-08 AI1" src="https://github.com/user-attachments/assets/2eb6865a-369a-4f27-937b-66822b65bf14" />
+<img width="2756" height="1470" alt="Screenshot 2026-02-08 AI2" src="https://github.com/user-attachments/assets/9ad74673-fd64-4cf2-af40-be447c7cc695" />
+
+
+<img width="2764" height="1542" alt="Screenshot 2026-02-08 AI3" src="https://github.com/user-attachments/assets/a3acc5c6-d1c4-4b11-898d-dd509aae045b" />
+
+<img width="2862" height="1328" alt="Screenshot 2026-02-08 AI4" src="https://github.com/user-attachments/assets/f4ce52e9-5db4-498e-acd7-d95064507a5d" />
+
+
+
+
+
 
 ## Notes
 - Best results with 2-4 stocks for comparison
